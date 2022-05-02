@@ -1,6 +1,6 @@
 ---
 layout: project
-color: "#b9f8f6"
+color: "#00c9e3"
 logo: Improving Scikit-Learn Usability and Automation
 ---
 
