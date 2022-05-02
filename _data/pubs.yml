@@ -1,0 +1,39 @@
+# The following are required
+#
+# - authors: eugene wu, super man
+#   conf: SIGMOD 2016
+#   tags:
+#   - vis
+#   title: Title of the paper
+#   url: url to the paper
+#
+# The following are optional
+#
+#   slides: URL to slides
+#   code: URL to code/github
+#   comments: any comments
+#
+#
+# Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
+#
+
+
+- title: 'Centralized Data Market Designs for AutoML'
+  future: true
+  authors: Pranav Subramaniam, Zachary Huang, Raul Fernandez, Eugene Wu
+  conf: SIGMOD 2023 (in submission)
+- title: 'How I Stopped Worrying About Training Data Bugs and Started Complaining'
+  authors: Lampros Flokas, Weiuan Wu, Jiannan Wang, Nakul Verma, Eugene Wu
+  conf: DEEM Workshop 2022 
+- title: 'Complaint-Driven Training Data Debugging at Interactive Speeds'
+  authors: Lampros Flokas, Young Wu, Jiannan Wang, Nakul Verma, Eugene Wu
+  conf: SIGMOD 2022
+- title: 'Private Federated Explanation of Inference Queries'
+  authors: Young Wu, Yejia Liu, Lampros Flokas, Jiannan Wang, Eugene Wu
+  conf: VLDB 2022 
+- title: 'Explaining SQL-ML Queries with Bayesian Optimization'
+  selected: true
+  url: https://arxiv.org/pdf/2102.05308.pdf
+  authors: Brandon Lockhard, Jiannan Wang, Eugene Wu
+  conf: VLDB 2021
+
